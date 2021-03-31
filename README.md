@@ -13,13 +13,6 @@ No exemplo 1 nos temos um dataset de um banco do sul do brasil que quer averigua
 
 Cada pasta "ExemploX" contém um data diferente, mas o processo de tratamento é o mesmo.
 
-COMO ESTUDAR:
-
-- Abra a pasta "Exemplo1" vá no arquivo "Tratando_Churn.ipynb".
-- Acompanhe o processo de Análise e tratamento na ordem que está.
-- Fique atento as linhas comentadas (com '#') que explicam o que está sendo feito.
-- O mesmo vale para os outros Exemplos.
-
 ### Exemplos de correção na tabela Churn
 
 - As colunas apresentam nomes imprecisos.
@@ -28,3 +21,11 @@ COMO ESTUDAR:
 - As classificações de gênero precisam ser padronizadas.
 <img src= "https://github.com/EuReinoso/TratamentoDeDados/blob/master/assets/genero.jpg" width = "360" height = "280" />
 
+## Como Estudar
+
+- Abra a pasta "Exemplo1" vá no arquivo "Tratando_Churn.ipynb".
+- Acompanhe o processo de análise e tratamento na ordem que está.
+- Fique atento as linhas comentadas (com '#') que explicam o que está sendo feito.
+- O mesmo vale para os outros Exemplos.
+
+Bons estudos!
